@@ -1,4 +1,4 @@
-# 🔢 Factor Catcher
+# 🔢 Target Number Catcher
 
 **Subject:** Mathematics (factors, multiples, primes, perfect squares, comparisons)
 **File:** `math-game.html`
